@@ -17,23 +17,6 @@ This project aims to predict the survival chances of Titanic passengers based on
 - Grouped continuous features (age, fare) into bins for better interpretability.
 - Added new features like family size and whether the passenger was traveling alone.
 
-## Tech Stack:
-**Programming Language:** Python
-
-### Libraries:
-- **Data Manipulation:** pandas, numpy
-- **Visualization:** seaborn, matplotlib
-- **Machine Learning:** scikit-learn
-- **GUI:** Tkinter
-
-### Model Evaluation:
-- Accuracy comparison between raw data and percentage-based data.
-
-## How to Use:
-1. **Run the application:** The project includes a Python script to launch the GUI.
-2. **Enter passenger details:** Input features like age, fare, sex, pclass, etc.
-3. **Get Prediction:** The model predicts the probability of survival based on user input.
-
 ## Visualizations
 - Survival rate by sex, age, class, fare, and family size.
 - Boxplots to identify and remove fare outliers.
@@ -96,3 +79,20 @@ The GUI allows users to input passenger information (age, sex, class, etc.) and 
 
 - Python 3.x
 - Libraries: `pandas`, `seaborn`, `matplotlib`, `scikit-learn`, `tkinter`, `PIL (Pillow)`
+
+## Tech Stack:
+**Programming Language:** Python
+
+### Libraries:
+- **Data Manipulation:** pandas, numpy
+- **Visualization:** seaborn, matplotlib
+- **Machine Learning:** scikit-learn
+- **GUI:** Tkinter
+
+### Model Evaluation:
+- Accuracy comparison between raw data and percentage-based data.
+
+## How to Use:
+1. **Run the application:** The project includes a Python script to launch the GUI.
+2. **Enter passenger details:** Input features like age, fare, sex, pclass, etc.
+3. **Get Prediction:** The model predicts the probability of survival based on user input.
