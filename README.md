@@ -21,6 +21,14 @@ This project aims to predict the survival chances of Titanic passengers based on
 - Survival rate by sex, age, class, fare, and family size.
 - Boxplots to identify and remove fare outliers.
 
+![SurvivalRateByFeatures](https://github.com/user-attachments/assets/e13ae7be-6100-4a61-9205-bdb9d0946f4a)
+![Outlier](https://github.com/user-attachments/assets/0aa6e640-784f-45f0-b439-e91f1b5eb93a)
+![SurvivalAgeRate](https://github.com/user-attachments/assets/46944685-0e22-4f0e-9a06-8fbcff7113ca)
+![SurvivalPClassRate](https://github.com/user-attachments/assets/ee683249-8967-499b-a849-e25e7404a2a7)
+![SurvivalFareRate](https://github.com/user-attachments/assets/1d15ded9-1f68-4b01-b4c2-3b8c0e954190)
+![SurvivalFamilySizeRate](https://github.com/user-attachments/assets/83ce3a40-1eea-4303-937d-24dc43296398)
+
+
 ## Machine Learning Models
 
 - **Model 1**: Logistic Regression with polynomial features (raw data).
@@ -63,6 +71,9 @@ After cross-validation and hyperparameter tuning, both models were compared. Des
 ## GUI Application
 
 The GUI allows users to input passenger information (age, sex, class, etc.) and predict the survival probability. It was built using the Tkinter library and features validation for inputs to ensure correct data entry.
+
+![Screenshot 2024-10-09 144731](https://github.com/user-attachments/assets/5d4fbd64-6152-4343-8527-7e65a0667214)
+
 
 ## Requirements
 
