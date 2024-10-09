@@ -1,0 +1,2 @@
+# Titanic-Survival-Prediction---Machine-Learning-GUI-Application
+This project is designed to predict the likelihood of a passenger's survival on the Titanic based on various passenger details. It leverages data preprocessing, visualization, and machine learning techniques, culminating in a Graphical User Interface (GUI) that allows users to input passenger details and receive survival predictions.
